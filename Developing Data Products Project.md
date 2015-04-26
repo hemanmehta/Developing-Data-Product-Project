@@ -32,5 +32,7 @@ Shiny App
 ***
 This is a screenshot of the deployed shiny app.  It was tested and worked for various combinations of numeric inputs. It is available [here](https://hemanmehta.shinyapps.io/developing-data-products-shiny/).
 
+Presentation is availabe [here](http://rpubs.com/hemanmehta/Developing-Data-Product-ShinyApp).
+
 
 
